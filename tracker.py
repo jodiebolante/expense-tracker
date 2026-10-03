@@ -1,6 +1,6 @@
-#Project: Expense Tracker - Installment 2: Talking to the User
+#Expense Tracker - Installment 2: Talking to the User
 #Author: Jodie F. Bolante
-#Description: Shows the landing, asks for two expenses, prints a summary.
+#Shows the landing, asks for two expenses, prints a summary.
 print("=" * 40)
 print(" " * 12 +"EXPENSE TRACKER")
 print(" " * 6 +"Know where your money goes.")
